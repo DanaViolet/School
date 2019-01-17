@@ -1,0 +1,13 @@
+Requirements: 
+It should simulate five different seats. 
+Each seat should have a button to “call” and a light that indicates that the attendant has been called. 
+The attendant has a button that he or she can press to turn off all the lights
+
+-------------------------------------------------------------------------------------------------
+Design a sample UI and include it in your assignment (it can be drawn in Visio or a similar tool)
+Design the data structures (class or classes)
+Design the methods of the back-end (which the UI would use)
+
+Implement the back-end in Java, and create a simple test UI that uses it. 
+The test UI doesn't have to be graphical... it's just a command-line application that uses the back-end
+Submit your source code and a couple of screen shots showing your program in action
